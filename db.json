@@ -1,4 +1,7 @@
 {
+  "v1":{
+     "subscription":
+  {
   "pauseSubscription": {
     "resumeDate":"2020-01-10"
   },
@@ -7,5 +10,21 @@
   },
   "updateResumeDate": {
     "resumeDate":"2020-01-10"
+  }{
+  "v1": {
+    "subscription": {
+      "pauseSubscription": {
+        "resumeDate": "2020-01-10"
+      },
+      "resumeSubscription": {
+        "resumeDate": "2020-01-10"
+      },
+      "updateResumeDate": {
+        "resumeDate": "2020-01-10"
+      }
+    }
   }
+}
+}
+}
 }
