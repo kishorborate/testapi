@@ -1,3 +1,11 @@
 {
-  "resumeDate": "2020-01-01"
+  "pauseSubscription": {
+    "resumeDate":"2020-01-10"
+  },
+  "resumeSubscription": {
+    "resumeDate":"2020-01-10"
+  },
+  "updateResumeDate": {
+    "resumeDate":"2020-01-10"
+  }
 }
