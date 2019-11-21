@@ -1,15 +1,11 @@
 {
-  "v1": {
-    "subscription": {
-      "pause": {
+  "v1/subscription/pause": {
         "resumeDate": "2020-01-10"
       },
-      "resume": {
+  "v1/subscription/resume": {
         "resumeDate": "2020-01-10"
       },
-      "update": {
+  "v1/subscription/update": {
         "resumeDate": "2020-01-10"
       }
-    }
-  }
 }
