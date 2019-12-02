@@ -8,7 +8,7 @@
   "updateSubscription": {
         "resumeDate": "2020-01-10"
       },
-  "paymentPageUrl":{
+  "/v2/create-agreement":{
     "authorizationUrl": "string",
     "token": "EC-123123123123"
   }
